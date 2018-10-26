@@ -1,0 +1,2 @@
+# latihan.js
+latihan
